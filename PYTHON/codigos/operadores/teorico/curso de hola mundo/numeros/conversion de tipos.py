@@ -1,0 +1,5 @@
+x = input("")
+#int()
+#str()
+#flot()
+#bool()
